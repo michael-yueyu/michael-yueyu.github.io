@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# michael-yueyu.github.io
+Repository for Dr.Yue Yu 's personal academic research website.
